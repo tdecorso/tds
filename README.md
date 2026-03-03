@@ -4,6 +4,6 @@ Header-only data structures implementation in C. It currently supports:
   - dynamic arrays (see **da.h**)
   - linked lists (see **list.h**)
 
-# Examples
+## Examples
 
 You can refer to the dedicated tests for usage examples.
